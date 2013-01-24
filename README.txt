@@ -1,1 +1,1 @@
-This repository contains all exercises done for each week of the course "Functional Programming with Scala" by Martin Odersky, provided through coursera.
+This repository contains all exercise work done for each week of the course "Functional Programming with Scala" by Martin Odersky, provided through coursera. Each folder W1, W2... represent work done for week1, week 2, etc.
