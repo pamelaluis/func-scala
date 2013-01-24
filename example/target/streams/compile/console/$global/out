@@ -1,0 +1,11 @@
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0minfo[0m] [0mStarting scala interpreter...[0m
+[0m[[0mdebug[0m] [0m  Boot classpath: C:\Tools\javalib\JDK1.6.0_24\jre\lib\resources.jar;C:\Tools\javalib\JDK1.6.0_24\jre\lib\rt.jar;C:\Tools\javalib\JDK1.6.0_24\jre\lib\sunrsasign.jar;C:\Tools\javalib\JDK1.6.0_24\jre\lib\jsse.jar;C:\Tools\javalib\JDK1.6.0_24\jre\lib\jce.jar;C:\Tools\javalib\JDK1.6.0_24\jre\lib\charsets.jar;C:\Tools\javalib\JDK1.6.0_24\jre\lib\modules\jdk.boot.jar;C:\Tools\javalib\JDK1.6.0_24\jre\classes;C:\Users\pluis\.sbt\boot\scala-2.9.2\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m  Classpath: C:\WIP\R&D\Scala\example\target\scala-2.9.2\classes;C:\Users\pluis\.sbt\boot\scala-2.9.2\lib\scala-compiler.jar;C:\Users\pluis\.sbt\boot\scala-2.9.2\lib\jansi.jar;C:\Users\pluis\.sbt\boot\scala-2.9.2\lib\jline.jar[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
